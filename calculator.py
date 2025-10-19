@@ -44,3 +44,4 @@ for path in sys.path:
 # Print the first 5 loaded module names
 print("\nFirst 5 loaded modules:")
 print(list(sys.modules.keys())[:5])
+
