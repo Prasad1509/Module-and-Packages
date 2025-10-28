@@ -14,3 +14,4 @@ print("log base 10 of 100:", math.log10(100))
 
 print("math.floor(3.7):", math.floor(3.7))  
 print("math.ceil(3.2):", math.ceil(3.2))
+
