@@ -58,3 +58,4 @@ year = 2005
 is_leap = calendar.isleap(year)
 print("Q10. Is year", year, "a leap year?", is_leap)
 # calendar.isleap() returns True or False
+
