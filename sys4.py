@@ -3,3 +3,4 @@ import sys
 print("Before exit")
 sys.exit()  # Ends the program immediately
 print("This line will not run")  # Skipped
+
