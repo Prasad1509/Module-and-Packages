@@ -5,7 +5,7 @@ from datetime import timedelta
 
 # 🔢 Q1. Print the current date and time 
 now = datetime.datetime.now()
-print("Q1. Current date and time:", now)
+print("Q1. Current date and time:", now) 
 # now() returns current date and time like: 2025-05-31 19:20:12.123456
 
 # 🔢 Q2. Extract only the date (without time)
