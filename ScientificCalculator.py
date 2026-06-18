@@ -5,12 +5,12 @@ while True:
     print("1. Square Root")
     print("2. Power (x^y)")
     print("3. sin, cos, tan")
-    print("4. Log and Log10")
+    print("4. Log and Log10") 
     print("5. Factorial")
     print("6. GCD")
     print("7. LCM (Python 3.9+)")
     print("8. Hypotenuse")
-    print("9. Exit")
+    print("9. Exit") 
 
     choice = input("Enter your choice (1-9): ")
 
