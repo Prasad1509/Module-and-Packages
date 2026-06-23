@@ -11,7 +11,6 @@ print("Radians to degrees:", math.degrees(math.pi))
 print("e raised to 2 is:", math.exp(2))
 print("log base e of 10:", math.log(10))       
 print("log base 10 of 100:", math.log10(100))
-
 print("math.floor(3.7):", math.floor(3.7))  
 print("math.ceil(3.2):", math.ceil(3.2))
 
