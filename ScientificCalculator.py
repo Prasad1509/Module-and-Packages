@@ -7,7 +7,7 @@ while True:
     print("3. sin, cos, tan")
     print("4. Log and Log10") 
     print("5. Factorial")
-    print("6. GCD")
+    print("6. GCD") 
     print("7. LCM (Python 3.9+)")
     print("8. Hypotenuse")
     print("9. Exit") 
