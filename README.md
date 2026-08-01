@@ -36,8 +36,8 @@ while True:
 
     if choice == "1":
         num = float(input("Enter a number: "))
-        print("Square root is:", math.sqrt(num))
-
+        print("Square root is:", math.sqrt(num 
+        
     elif choice == "2":
         x = float(input("Enter base number: "))
         y = float(input("Enter power: "))
