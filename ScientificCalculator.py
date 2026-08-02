@@ -1,6 +1,6 @@
 import math
 
-while True:
+while True: 
     print("\n--- Simple Calculator ---")
     print("1. Square Root")
     print("2. Power (x^y)")
