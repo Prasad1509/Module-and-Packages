@@ -4,7 +4,7 @@ import os
 path = r"C:\Users\prasa\OneDrive\Desktop"  # ✅ Using raw string (r"...")
 
 # 📄 Step 2: Get all items from that folder
-items = os.listdir(path)
+items = os.listdir(path) 
 
 # 🧮 Step 3: Count how many are files (not folders)
 file_count = 0
