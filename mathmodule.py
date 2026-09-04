@@ -2,7 +2,7 @@ import math
 
 print("Value of pi is:", math.pi)
 print("Value of e is:", math.e)
-print("Square root of 25 is:",math.sqrt(34))
+print("Square root of 25 is:",math.sqrt(34)) 
 print("cos(0):", math.cos(0))     
 print("sin(0):", math.sin(0))      
 print("tan(0):", math.tan(0))
