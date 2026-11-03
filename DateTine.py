@@ -4,7 +4,7 @@ import datetime
 # 1️⃣ Get current date and time
 now = datetime.datetime.now()
 print("Current date and time:", now)
-
+                           
 # 2️⃣ Get individual parts from the current date and  time
 print("Year:", now.year)
 print("Month:", now.month)
